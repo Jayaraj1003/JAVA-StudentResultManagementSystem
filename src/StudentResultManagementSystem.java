@@ -21,7 +21,7 @@ public class StudentResultManagementSystem {
             System.out.println("\n======================================");
             System.out.println("   STUDENT RESULT MANAGEMENT SYSTEM");
             System.out.println("======================================");
-            System.out.println("1. Add Student");
+            System.out.println("1. Add Students");
             System.out.println("2. Search Student");
             System.out.println("3. Display All Students");
             System.out.println("4. Display Class Topper");
